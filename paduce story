@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Paduce – The Nightmare Architect</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #0a0f1c;
+      color: #e0e0e0;
+      text-align: center;
+      padding: 40px;
+    }
+    h1 {
+      color: #4da6ff;
+    }
+    .mask {
+      font-size: 120px;
+      margin: 20px 0;
+    }
+    .box {
+      background: rgba(20, 30, 60, 0.8);
+      border: 1px solid #4da6ff;
+      border-radius: 10px;
+      padding: 20px;
+      margin: 20px auto;
+      max-width: 600px;
+    }
+  </style>
+</head>
+<body>
+  <h1>PADUCE</h1>
+  <div class="mask">🎭</div>
+  <div class="box">
+    <p><b>Paduce</b> is not just an architect of buildings, but an architect of dreams and nightmares.</p>
+    <p>Born from secret experiments in a futuristic lab, he wears a blue mask that covers his entire face, a worn blue hood, and a jacket marked with the word <i>“Paduce”</i>.</p>
+    <p>His purpose: to hunt nightmares and destroy them. He builds labyrinths and dreamscapes to trap them, navigating the dreamworld with the power of his mask.</p>
+    <p>But his greatest enemy is a powerful woman with superpowers — a nightmare that blurs the line between dream and reality.</p>
+  </div>
+  <p>He is both creator and destroyer. Savior and killer. A legend whispered about in the shadows of dreams.</p>
+</body>
+</html>
